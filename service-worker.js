@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.3f8aeabe155b731de35fe5f1bad8afc7.js"
+  "/precache-manifest.8f80390be7f18fcbf3171bd46015d1cc.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "dash_sport"});
