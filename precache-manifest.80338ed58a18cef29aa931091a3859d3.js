@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e23db29713cf296c509d",
-    "url": "/css/app.36c4ce53.css"
+    "revision": "66b2bca260c089c61138",
+    "url": "/css/app.33db6dfd.css"
   },
   {
     "revision": "24e238d973b40dd5bd2e",
@@ -100,7 +100,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/volleyball-player.99c06892.svg"
   },
   {
-    "revision": "7ab1f31ace3f7ea106955e7aca72ad1e",
+    "revision": "58bd6945793e3a923c73af51752fc7a4",
     "url": "/index.html"
   },
   {
@@ -108,7 +108,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about.e2e30a2a.js"
   },
   {
-    "revision": "e23db29713cf296c509d",
+    "revision": "66b2bca260c089c61138",
     "url": "/js/app.9e0eb805.js"
   },
   {
